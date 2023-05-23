@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="250px" src="https://github.com/Ndraaa15/Leaning-Java/assets/112854205/26e919f8-39d0-4794-81e0-8f999344e4d5" alt="js" />
+</p>
+
 # 🧠Learning-Java
 This repository showcases my journey of learning the Java programming language, starting from the fundamentals to more advanced concepts and also contains my work from campus.
 
